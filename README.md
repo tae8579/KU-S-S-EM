@@ -13,3 +13,4 @@ Network Protocol Reverse Engineering
   1. Open a terminal
   2. Installing dependent libraries through `pip`
   3. Installing `Python 3.5`
+  4. Run `main.py`
