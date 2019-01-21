@@ -4,8 +4,8 @@ Network Protocol Reverse Engineering
 ## Introduction
 
 ## Requirements and Dependencies
-* OS : 'Ubuntu 18.04.1 LTS'
-* OS : Ubuntu 18.04.1 LTS
-* OS : Ubuntu 18.04.1 LTS
+* `Ubuntu 18.04.1 LTS`
+* `Python 3.5`, `Python 3.6`
+* 
 
 ## Instructions
