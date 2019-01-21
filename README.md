@@ -1,7 +1,7 @@
 # KU-S-S-EM
 
-# Introduction
+## Introduction
 
-# Requirements and Dependencies
+## Requirements and Dependencies
 
-# Instructions
+## Instructions
