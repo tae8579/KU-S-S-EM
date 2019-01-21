@@ -10,4 +10,4 @@ Network Protocol Reverse Engineering
 
 ## Instructions
 * Build Instructions of `KU-S-S-EM`
-1. Open a terminal
+  1. Open a terminal
