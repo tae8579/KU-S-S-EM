@@ -2,6 +2,8 @@
 Network Protocol Reverse Engineering
 
 ## Introduction
+Network Protocol Inference of aSTEAM Project (Next-Generation Information Computing Development Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT). 
+The function of this software is to analyze protocol syntax and order through reverse engineering. Through this process, the protocol's specifications and order of operation can be obtained.
 
 ## Requirements and Dependencies
 * OS : `Ubuntu 18.04.1 LTS`
