@@ -16,3 +16,9 @@ The function of this software is to analyze protocol syntax and order through re
   2. Install dependent libraries through `pip3`
   3. Install `Python 3.5`
   4. Run `main.py`
+
++(191105)
+
+> Protocol State Visualization through `fsm/*`  
+  1. install `python install setup.py` after `KU-S-S-EM`
+  2. Run `python fsm/main.py` 
