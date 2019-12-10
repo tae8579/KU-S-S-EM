@@ -17,8 +17,6 @@ This project aims to find out each protocol's syntax and semantics through rever
   3. Install `Python 3.5`
   4. Run `main.py`
 
-+(191105)
-
 > Protocol State Visualization through `fsm/*`  
   1. install `python install setup.py` after `KU-S-S-EM`
   2. Run `python fsm/main.py` 
