@@ -1,5 +1,6 @@
 # KU-S-S-EM
-Network Protocol Reverse Engineering
+Improved Network Protocol Reverse Engineering (2nd Year)
+In this project, we propose a new approach to protocol inference through the improved KU-S-S-EM project.
 
 ## Introduction
 Network Protocol Inference of aSTEAM Project (Next-Generation Information Computing Development Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT). 
