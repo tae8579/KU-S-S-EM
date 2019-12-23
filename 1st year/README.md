@@ -1,5 +1,5 @@
-# KU-S-S-EM
-Network Protocol Reverse Engineering
+# KU-S-S-EMv1
+Status and Spec Export Module for Transport Layer Protocol
 
 ## Introduction
 Network Protocol Inference of aSTEAM Project (Next-Generation Information Computing Development Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT). 
