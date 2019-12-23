@@ -1,4 +1,4 @@
-# KU-S-S-EMv1
+# KU-S&S-EMv1
 Status and Spec Export Module for Transport Layer Protocol
 
 ## Introduction
