@@ -1,4 +1,4 @@
-# KU-S-S-EM
+# KU-S-S-EMv2
 Improved Network Protocol Reverse Engineering (2nd Year)
 
 In this project, we propose a new approach to protocol inference through the improved KU-S-S-EM project.
